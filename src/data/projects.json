@@ -1,0 +1,22 @@
+{
+  "projects": [
+  {
+    "id": 1,
+    "title": "Проект I",
+    "description": "Проект на тему: Базовый CSS",
+    "image": "/src/assets/images/project 1.png",
+    "techStack": ["HTML", "JavaScript", "СSS"],
+    "livePreviewUrl": "",
+    "codeUrl": "https://github.com/nataka-n"
+  },
+  {
+    "id": 2,
+    "title": "Проект II",
+    "description": "Второй проект на тему: Асинхронность",
+    "image": "/src/assets/images/project 2.png",
+    "techStack": ["HTML", "JavaScript", "СSS"],
+    "livePreviewUrl": "",
+    "codeUrl": "https://github.com/nataka-n"
+  }
+]
+}

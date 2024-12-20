@@ -1,0 +1,29 @@
+{
+  "technologies": [
+    {
+      "id": 1,
+      "name": "HTML5",
+      "icon": "/src/assets/icons/html.png"
+    },
+    {
+      "id": 2,
+      "name": "CSS",
+      "icon": "/src/assets/icons/css.png"
+    },
+    {
+      "id": 3,
+      "name": "JavaScript",
+      "icon": "/src/assets/icons/js.png"
+    },
+    {
+      "id": 4,
+      "name": "React",
+      "icon": "/src/assets/icons/react.png"
+    },
+    {
+      "id": 5,
+      "name": "TypeScript",
+      "icon": "/src/assets/icons/ts.png"
+    }
+  ]
+}
